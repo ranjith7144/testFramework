@@ -7,7 +7,7 @@ public class LoginPage {
  private WebDriver driver;
  
  //1. Locators:
- private By username=By.xpath("//*[@name='username1']");
+ private By username=By.xpath("//*[@name='username']");
  private By password=By.xpath("//*[@name='password']");
  private By loginButton=By.xpath("//*[@type='submit']");
  
